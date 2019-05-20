@@ -120,7 +120,6 @@ public class TaskController {
     /**
      * Удаление задачи по id
      *
-     * @param id задачи
      * @return загололовок
      */
     @RequestMapping(value = "/delTask/{id}", method = RequestMethod.DELETE)

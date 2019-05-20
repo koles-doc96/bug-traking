@@ -1,12 +1,10 @@
 package ru.evgen.bugtraking.utils;
 
 import ru.evgen.bugtraking.model.Status;
-import ru.evgen.bugtraking.model.Task;
 
 import java.lang.reflect.Field;
 
 import static ru.evgen.bugtraking.Constant.*;
-import static ru.evgen.bugtraking.Constant.closeStatus;
 
 public class Util {
     /**
